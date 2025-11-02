@@ -4,12 +4,12 @@ FairSplit — Smart & Fair Expense Sharing
 Unlike typical bill-splitting apps, FairSplit calculates **fairness scores**, visualizes contribution imbalances, and suggests settlements automatically.
 
 ## Features
-Calculate fairness score (0–100)
-Automatic settlement suggestions
-Real-time visualization of group contributions
-Lightweight Streamlit-based MVP
-Works offline or on low connectivity
-Simple, privacy-first (no login)
+Calculate fairness score (0–100),
+Automatic settlement suggestions,
+Real-time visualization of group contributions,
+Lightweight Streamlit-based MVP,
+Works offline or on low connectivity,
+Simple, privacy-first (no login),
 
 
 ## Tech Stack
