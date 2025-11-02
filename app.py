@@ -37,11 +37,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.set_page_config(
-    page_title="FairSplit - Transparent Group Payments",
-    page_icon="",
-    layout="centered"
-)
+
 
 def apply_custom_styling():
     st.markdown("""
