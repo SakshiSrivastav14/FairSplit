@@ -1,4 +1,5 @@
-streamlit
 streamlit==1.38.0
 matplotlib==3.9.0
-statistics
+pandas==2.2.3
+psycopg2-binary==2.9.9
+statistics; python_version < "3.10"
